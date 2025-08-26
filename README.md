@@ -17,6 +17,7 @@
 ## Steam好友列表
 | Avatar                                                                            | Name             | steamid                                                                     | is_friend   | BFD                 | removed_time        | Remark   |
 |:----------------------------------------------------------------------------------|:-----------------|:----------------------------------------------------------------------------|:------------|:--------------------|:--------------------|:---------|
+| ![](https://avatars.steamstatic.com/a55818b4b6031f71aeab7f5bcf6dce939727bed0.jpg) | Dante            | [76561199259600675](https://steamcommunity.com/profiles/76561199259600675/) | ❌           | 2025-08-24 22:20:54 | 2025-08-26 09:05:18 |          |
 | ![](https://avatars.steamstatic.com/a9cb10579f1356e21d08f23d2061da0c4664da1f.jpg) | 麻麻地吻             | [76561199039092514](https://steamcommunity.com/profiles/76561199039092514/) | ❌           | 2025-06-16 13:40:10 | 2025-08-20 09:04:13 |          |
 | ![](https://avatars.steamstatic.com/c39d2545534d47d3f575b749961796b6d5bd4303.jpg) | ☂️Kαภeki☂        | [76561199163198378](https://steamcommunity.com/profiles/76561199163198378/) | ❌           | 2025-07-30 16:43:45 | 2025-08-07 09:14:46 |          |
 | ![](https://avatars.steamstatic.com/456560fc0ec4ce22b9230943a159e172c87c1386.jpg) | can win ！        | [76561198287611235](https://steamcommunity.com/profiles/76561198287611235/) | ✅           | 2022-11-23 04:22:18 |                     |          |
@@ -32,4 +33,3 @@
 | ![](https://avatars.steamstatic.com/66c4603486933f2149eeb534623427726fd1e527.jpg) | Frank Allen      | [76561199566030823](https://steamcommunity.com/profiles/76561199566030823/) | ✅           | 2025-01-26 06:24:04 |                     |          |
 | ![](https://avatars.steamstatic.com/ef1fd1ef071f65a4d318d2535b68938a3a51ca42.jpg) | StaRKiller       | [76561199026980544](https://steamcommunity.com/profiles/76561199026980544/) | ✅           | 2025-06-15 09:40:15 |                     |          |
 | ![](https://avatars.steamstatic.com/2fb9710ec5da3d491bbca7298a0f8cb6324d9bfe.jpg) | Kōki             | [76561198885874007](https://steamcommunity.com/profiles/76561198885874007/) | ✅           | 2025-08-17 00:32:34 |                     |          |
-| ![](https://avatars.steamstatic.com/a55818b4b6031f71aeab7f5bcf6dce939727bed0.jpg) | Dante            | [76561199259600675](https://steamcommunity.com/profiles/76561199259600675/) | ✅           | 2025-08-24 22:20:54 |                     |          |
